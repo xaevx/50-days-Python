@@ -18,7 +18,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 
 | Day | Project | Category | Status |
 |:---:|----------|----------|:------:|
-| 01 | Calculator | Basics | ⬜ |
+| 01 | Calculator | Basics | ✅ |
 | 02 | Unit Converter | Basics | ⬜ |
 | 03 | Password Generator | Basics | ⬜ |
 | 04 | Number Guessing Game | Basics | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
+Progress: █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1%
 ```
 
 ---
