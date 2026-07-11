@@ -20,7 +20,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 |:---:|----------|----------|:------:|
 | 01 | Calculator | Basics | ✅ |
 | 02 | Unit Converter | Basics | ✅ |
-| 03 | Password Generator | Basics | ⬜ |
+| 03 | Password Generator | Basics | ✅ |
 | 04 | Number Guessing Game | Basics | ⬜ |
 | 05 | Rock Paper Scissors | Basics | ⬜ |
 | 06 | Hangman Game | Basics | ⬜ |
@@ -109,14 +109,14 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4%
+Progress: ██░░░░░░░░░░░░░░░░░░░░░░░░░░ 6%
 ```
 
 ---
 
 ## 🎯 Rules
 
-- ✅ Build one project every day
+- ✅ Build one project every day (NO COPY - PASTE FROM INTERNET/AI - If I need any help, I will use the AI to help me understand the concept, not to generate the code)
 - ✅ Write clean and readable code
 - ✅ Document each project
 - ✅ Commit daily progress
