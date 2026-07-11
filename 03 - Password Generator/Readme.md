@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple command-line Password Generator built with Python that creates secure and customizable passwords.
+A simple command-line Password Generator built with Python that generates secure and customizable passwords.
 
 ## Features
 
