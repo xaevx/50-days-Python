@@ -21,7 +21,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 01 | Calculator | Basics | ✅ |
 | 02 | Unit Converter | Basics | ✅ |
 | 03 | Password Generator | Basics | ✅ |
-| 04 | Number Guessing Game | Basics | ⬜ |
+| 04 | Number Guessing Game | Basics | ✅ |
 | 05 | Rock Paper Scissors | Basics | ⬜ |
 | 06 | Hangman Game | Basics | ⬜ |
 | 07 | Tic-Tac-Toe (CLI) | Basics | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ██░░░░░░░░░░░░░░░░░░░░░░░░░░ 6%
+Progress: ███░░░░░░░░░░░░░░░░░░░░░░░░░ 8%
 ```
 
 ---
