@@ -23,7 +23,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 03 | Password Generator | Basics | ✅ |
 | 04 | Number Guessing Game | Basics | ✅ |
 | 05 | Rock Paper Scissors | Basics | ✅ |
-| 06 | Hangman Game | Basics | ⬜ |
+| 06 | Hangman Game | Basics | ✅ |
 | 07 | Tic-Tac-Toe (CLI) | Basics | ⬜ |
 | 08 | To-Do List | File Handling | ⬜ |
 | 09 | Contact Book | File Handling | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
+Progress: ███░░░░░░░░░░░░░░░░░░░░░░░░░ 12%
 ```
 
 ---
