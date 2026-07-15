@@ -24,7 +24,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 04 | Number Guessing Game | Basics | ✅ |
 | 05 | Rock Paper Scissors | Basics | ✅ |
 | 06 | Hangman Game | Basics | ✅ |
-| 07 | Tic-Tac-Toe (CLI) | Basics | ⬜ |
+| 07 | Tic-Tac-Toe (CLI) | Basics | ✅ |
 | 08 | To-Do List | File Handling | ⬜ |
 | 09 | Contact Book | File Handling | ⬜ |
 | 10 | Expense Tracker | File Handling | ⬜ |
@@ -109,14 +109,14 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███░░░░░░░░░░░░░░░░░░░░░░░░░ 12%
+Progress: ████░░░░░░░░░░░░░░░░░░░░░░░░ 14%
 ```
 
 ---
 
 ## 🎯 Rules
 
-- ✅ Build one project every day (NO COPY - PASTE FROM INTERNET/AI - If I need any help, I will use the AI to help me understand the concept, not to generate the code)
+- ✅ Build one project every day (NO COPY/ PASTE FROM INTERNET/AI - If I need any help, I will use the AI to help me understand the concept)
 - ✅ Write clean and readable code
 - ✅ Document each project
 - ✅ Commit daily progress
