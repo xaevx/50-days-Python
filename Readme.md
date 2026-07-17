@@ -26,7 +26,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 06 | Hangman Game | Basics | ✅ |
 | 07 | Tic-Tac-Toe (CLI) | Basics | ✅ |
 | 08 | To-Do List | File Handling | ✅ |
-| 09 | Contact Book | File Handling | ⬜ |
+| 09 | Contact Book | File Handling | ✅ |
 | 10 | Expense Tracker | File Handling | ⬜ |
 | 11 | Notes Manager | File Handling | ⬜ |
 | 12 | Password Manager | Security | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ████░░░░░░░░░░░░░░░░░░░░░░░░ 16%
+Progress: ████░░░░░░░░░░░░░░░░░░░░░░░░ 18%
 ```
 
 ---
