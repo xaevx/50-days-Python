@@ -27,7 +27,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 07 | Tic-Tac-Toe (CLI) | Basics | ✅ |
 | 08 | To-Do List | File Handling | ✅ |
 | 09 | Contact Book | File Handling | ✅ |
-| 10 | Expense Tracker | File Handling | ⬜ |
+| 10 | Expense Tracker | File Handling | ✅ |
 | 11 | Notes Manager | File Handling | ⬜ |
 | 12 | Password Manager | Security | ⬜ |
 | 13 | Library Management System | OOP | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ████░░░░░░░░░░░░░░░░░░░░░░░░ 18%
+Progress: ████░░░░░░░░░░░░░░░░░░░░░░░░ 20%
 ```
 
 ---
