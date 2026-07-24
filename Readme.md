@@ -31,9 +31,9 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 11 | Notes Manager | File Handling | ✅ |
 | 12 | Password Manager | Security | ✅ |
 | 13 | Library Management System | OOP | ✅ |
-| 14 | Student Management System | OOP | ⬜ |
-| 15 | Bank Account Simulator | OOP | ⬜ |
-| 16 | Inventory Management | OOP | ⬜ |
+| 14 | Student Management System | OOP | ✅ |
+| 15 | Bank Account Simulator | OOP | ✅ |
+| 16 | Inventory Management | OOP | ✅ |
 | 17 | Quiz Application | OOP | ⬜ |
 | 18 | Binary Search Visualizer | Algorithms | ⬜ |
 | 19 | Sorting Algorithm Visualizer | Algorithms | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ██████░░░░░░░░░░░░░░░░░░░░░░░ 26%
+Progress: ███████░░░░░░░░░░░░░░░░░░░░░░ 32%
 ```
 
 ---
