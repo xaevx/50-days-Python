@@ -35,7 +35,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 15 | Bank Account Simulator | OOP | ✅ |
 | 16 | Inventory Management | OOP | ✅ |
 | 17 | Quiz Application | OOP | ✅ |
-| 18 | Binary Search Visualizer | Algorithms | ⬜ |
+| 18 | Binary Search Visualizer | Algorithms | ✅ |
 | 19 | Sorting Algorithm Visualizer | Algorithms | ⬜ |
 | 20 | Maze Solver | Algorithms | ⬜ |
 | 21 | Folder Organizer | Automation | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███████░░░░░░░░░░░░░░░░░░░░░░ 34%
+Progress: ███████░░░░░░░░░░░░░░░░░░░░░░ 36%
 ```
 
 ---
