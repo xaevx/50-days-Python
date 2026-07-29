@@ -38,7 +38,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 18 | Binary Search Visualizer | Algorithms | ✅ |
 | 19 | Sorting Algorithm Visualizer | Algorithms | ✅ |
 | 20 | Maze Solver | Algorithms | ✅ |
-| 21 | Folder Organizer | Automation | ⬜ |
+| 21 | Folder Organizer | Automation | ✅ |
 | 22 | Bulk File Renamer | Automation | ⬜ |
 | 23 | PDF Merger | Automation | ⬜ |
 | 24 | Image Converter | Automation | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███████░░░░░░░░░░░░░░░░░░░░░░ 40%
+Progress: █████████░░░░░░░░░░░░░░░░░░░░░ 42%
 ```
 
 ---
