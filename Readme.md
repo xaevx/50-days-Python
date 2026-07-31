@@ -40,7 +40,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 20 | Maze Solver | Algorithms | ✅ |
 | 21 | Folder Organizer | Automation | ✅ |
 | 22 | Bulk File Renamer | Automation | ✅ |
-| 23 | PDF Merger | Automation | ⬜ |
+| 23 | PDF Merger | Automation | ✅ |
 | 24 | Image Converter | Automation | ⬜ |
 | 25 | Email Automation | Automation | ⬜ |
 | 26 | Weather App | API | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: █████████░░░░░░░░░░░░░░░░░░░░░ 44%
+Progress: ██████████████░░░░░░░░░░░░░░░ 46%
 ```
 
 ---
