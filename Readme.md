@@ -42,7 +42,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 22 | Bulk File Renamer | Automation | ✅ |
 | 23 | PDF Merger | Automation | ✅ |
 | 24 | Image Converter | Automation | ✅ |
-| 25 | Email Automation | Automation | ⬜ |
+| 25 | Email Automation | Automation | ✅ |
 | 26 | Weather App | API | ⬜ |
 | 27 | Currency Converter | API | ⬜ |
 | 28 | News Fetcher | API | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ██████████████░░░░░░░░░░░░░░░ 48%
+Progress: ████████████████░░░░░░░░░░░░░░ 50%
 ```
 
 ---
