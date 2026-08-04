@@ -44,7 +44,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 24 | Image Converter | Automation | ✅ |
 | 25 | Email Automation | Automation | ✅ |
 | 26 | Weather App | API | ✅ |
-| 27 | Currency Converter | API | ⬜ |
+| 27 | Currency Converter | API | ✅ |
 | 28 | News Fetcher | API | ⬜ |
 | 29 | GitHub Profile Viewer | API | ⬜ |
 | 30 | Web Scraper | Web | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ████████████████░░░░░░░░░░░░░░ 52%
+Progress: ████████████████░░░░░░░░░░░░░░ 54%
 ```
 
 ---
