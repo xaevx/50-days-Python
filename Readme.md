@@ -46,7 +46,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 26 | Weather App | API | ✅ |
 | 27 | Currency Converter | API | ✅ |
 | 28 | News Fetcher | API | ✅ |
-| 29 | GitHub Profile Viewer | API | ⬜ |
+| 29 | GitHub Profile Viewer | API | ✅ |
 | 30 | Web Scraper | Web | ⬜ |
 | 31 | CSV Data Analyzer | Data Science | ⬜ |
 | 32 | Data Visualization Dashboard | Data Science | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ████████████████░░░░░░░░░░░░░░ 56%
+Progress: ████████████████░░░░░░░░░░░░░░ 58%
 ```
 
 ---
