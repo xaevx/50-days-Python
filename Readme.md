@@ -50,7 +50,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 30 | Web Scraper | Web | ✅ |
 | 31 | CSV Data Analyzer | Data Science | ✅ |
 | 32 | Data Visualization Dashboard | Data Science | ✅ |
-| 33 | Stock Price Analyzer | Data Science | ⬜ |
+| 33 | Stock Price Analyzer | Data Science | ✅ |
 | 34 | Movie Recommendation System | Machine Learning | ⬜ |
 | 35 | Spam Detection | Machine Learning | ⬜ |
 | 36 | Face Detection | Computer Vision | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███████████████████░░░░░░░░░░░ 64%
+Progress: ███████████████████░░░░░░░░░░░ 66%
 ```
 
 ---
