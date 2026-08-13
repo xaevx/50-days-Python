@@ -53,7 +53,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 33 | Stock Price Analyzer | Data Science | ✅ |
 | 34 | Movie Recommendation System | Machine Learning | ✅ |
 | 35 | Spam Detection | Machine Learning | ✅ |
-| 36 | Face Detection | Computer Vision | ⬜ |
+| 36 | Face Detection | Computer Vision | ✅ |
 | 37 | Hand Gesture Tracking | Computer Vision | ⬜ |
 | 38 | Pose Detection | Computer Vision | ⬜ |
 | 39 | Object Detection (YOLO) | Computer Vision | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ████████████████████░░░░░░░░░░░ 70%
+Progress: ████████████████████░░░░░░░░░░░ 72%
 ```
 
 ---
