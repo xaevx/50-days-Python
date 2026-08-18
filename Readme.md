@@ -58,7 +58,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 38 | Pose Detection | Computer Vision | ✅ |
 | 39 | Object Detection (YOLO) | Computer Vision | ✅ |
 | 40 | Virtual Drawing Canvas | Computer Vision | ✅ |
-| 41 | OCR Text Scanner | AI | ⬜ |
+| 41 | OCR Text Scanner | AI | ✅ |
 | 42 | Sentiment Analysis | NLP | ⬜ |
 | 43 | AI Chatbot | Generative AI | ⬜ |
 | 44 | Image Classification | Deep Learning | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: █████████████████████░░░░░░░░░░ 80%
+Progress: █████████████████████░░░░░░░░░░ 82%
 ```
 
 ---
