@@ -61,7 +61,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 41 | OCR Text Scanner | AI | ✅ |
 | 42 | Sentiment Analysis | NLP | ✅ |
 | 43 | AI Chatbot | Generative AI | ✅ |
-| 44 | Image Classification | Deep Learning | ⬜ |
+| 44 | Image Classification | Deep Learning | ✅ |
 | 45 | Voice Assistant | AI | ⬜ |
 | 46 | FastAPI REST API | Backend | ⬜ |
 | 47 | Discord Bot | Automation | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: █████████████████████░░░░░░░░░░ 86%
+Progress: ███████████████████████░░░░░░░░ 88%
 ```
 
 ---
