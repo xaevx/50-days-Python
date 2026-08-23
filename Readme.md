@@ -63,7 +63,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 43 | AI Chatbot | Generative AI | ✅ |
 | 44 | Image Classification | Deep Learning | ✅ |
 | 45 | Voice Assistant | AI | ✅ |
-| 46 | FastAPI REST API | Backend | ⬜ |
+| 46 | FastAPI REST API | Backend | ✅ |
 | 47 | Discord Bot | Automation | ⬜ |
 | 48 | Personal Finance Dashboard | Full Project | ⬜ |
 | 49 | Personal AI Assistant | AI | ⬜ |
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███████████████████████░░░░░░░░ 90%
+Progress: ███████████████████████░░░░░░░░ 92%
 ```
 
 ---
