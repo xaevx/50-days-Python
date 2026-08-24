@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: ███████████████████████░░░░░░░░ 92%
+Progress: █████████████████████████░░░░░░ 94%
 ```
 
 ---
