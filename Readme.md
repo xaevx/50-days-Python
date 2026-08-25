@@ -64,8 +64,8 @@ For the next **50 days**, I'll be building one Python project every day to stren
 | 44 | Image Classification | Deep Learning | ✅ |
 | 45 | Voice Assistant | AI | ✅ |
 | 46 | FastAPI REST API | Backend | ✅ |
-| 47 | Discord Bot | Automation | ⬜ |
-| 48 | Personal Finance Dashboard | Full Project | ⬜ |
+| 47 | Discord Bot | Automation | ✅ |
+| 48 | Personal Finance Dashboard | Full Project | ✅ |
 | 49 | Personal AI Assistant | AI | ⬜ |
 | 50 | Capstone Python Project | Final Project | ⬜ |
 
@@ -109,7 +109,7 @@ For the next **50 days**, I'll be building one Python project every day to stren
 ## 📈 Progress
 
 ```
-Progress: █████████████████████████░░░░░░ 94%
+Progress: ██████████████████████████░░░░ 96%
 ```
 
 ---
